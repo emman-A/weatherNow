@@ -27,4 +27,3 @@ A simple and elegant weather application built with Node.js and Express that pro
    - Weather conditions
    - Location details
    - Current date
-
